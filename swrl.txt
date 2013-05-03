@@ -153,5 +153,6 @@ LIEN KET
 *://*.1goms.*
 *://*.n1win.*
 *://*.wingom.*
+*://*.vaobong.*
 
 #END
