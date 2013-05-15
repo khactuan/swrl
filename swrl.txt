@@ -3,6 +3,7 @@
 [Wildcard]
 
 IBET
+*://*.bong88.*
 *://*.ibet888.*
 *://*.book8899.*
 *://*.gogo1188.*
@@ -138,12 +139,9 @@ SO DE
 *://*.blt338.*
 *://*.ok368.*
 
-[RegExp]
+FACEBOOK
+*://*.facebook.*
 
-^http://code\.google\.com/.*
-facebook
-
-[Wildcard]
 
 LIEN KET
 *://*.nhanhso1.*
@@ -154,5 +152,6 @@ LIEN KET
 *://*.n1win.*
 *://*.wingom.*
 *://*.vaobong.*
+*://*.choibong.*
 
 #END
