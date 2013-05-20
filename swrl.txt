@@ -5,6 +5,7 @@
 IBET
 *://*.bong88.*
 *://*.ibet888.*
+*://*.ibet9999.*
 *://*.book8899.*
 *://*.gogo1188.*
 *://*.betlegion.*
@@ -57,6 +58,9 @@ IBET
 *://*.gogo1168.*
 
 IBET-AGENT
+*://*.agbong88.*
+*://*.b8ag.*
+*://*.b88ag.*
 *://*.effox.*
 *://*.logicyber.* 
 *://*.729972.*
