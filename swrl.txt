@@ -159,5 +159,6 @@ LIEN KET
 *://*.wingom.*
 *://*.vaobong.*
 *://*.choibong.*
+*://*.365cacuoc.*
 
 #END
