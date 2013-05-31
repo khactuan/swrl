@@ -145,9 +145,6 @@ SO DE
 *://*.234vn.*
 *://*.567vn.*
 
-FACEBOOK
-*://*.facebook.*
-
 
 LIEN KET
 *://*.nhanhso1.*
