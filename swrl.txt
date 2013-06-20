@@ -158,7 +158,5 @@ LIEN KET
 *://*.choibong.*
 *://*.365cacuoc.*
 
-KET QUA
-*://*.7msport.*
 
 #END
