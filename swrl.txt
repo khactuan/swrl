@@ -156,5 +156,6 @@ LIEN KET
 *://*.vaobong.*
 *://*.choibong.*
 *://*.365cacuoc.*
+*://*.hotro789.*
 
 #END
