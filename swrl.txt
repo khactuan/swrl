@@ -168,7 +168,6 @@ LIEN KET
 *://*.365cacuoc.*
 *://*.hotro789.*
 
-*://*.thiendia.*
-*://*.lauxanh.*
+*://*.hvaonline.*
 
 #END
