@@ -170,4 +170,6 @@ LIEN KET
 
 *://*.hvaonline.*
 
+*://*.facebook.*
+
 #END
