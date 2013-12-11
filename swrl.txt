@@ -158,6 +158,9 @@ SO DE
 *://*.blt338.*
 *://*.ok368.*
 
+ANOTHER
+*://*.sgd777.*
+
 LIEN KET
 *://*.nhanhso1.*
 *://*.vn35.*
