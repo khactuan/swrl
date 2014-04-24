@@ -175,4 +175,7 @@ LIEN KET
 *://*.365cacuoc.*
 *://*.hotro789.*
 
+KET QUA
+*://*.7msport.*
+
 #END
