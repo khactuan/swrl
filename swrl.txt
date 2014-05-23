@@ -115,6 +115,7 @@ SBOBET
 *://*.e16855.*
 *://*.e16811.*
 *://*.longmirror.*
+*://*.nerostone.*
 *175.41.48.1*
 
 SBOBET-AGENT
