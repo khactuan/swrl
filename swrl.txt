@@ -85,7 +85,7 @@ IBET-AGENT
 *://*.*wildele.*
 
 SBOBET
-*://*.sbobet.*
+*://*.*.sbobet.*
 *://*.easymario.*
 *://*.u16888.*
 *://*.jimbin.*
