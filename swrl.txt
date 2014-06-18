@@ -175,6 +175,7 @@ LIEN KET
 *://*.choibong.*
 *://*.365cacuoc.*
 *://*.hotro789.*
+*://*.thegioicobac.*
 
 KET QUA
 *://*.7msport.*
